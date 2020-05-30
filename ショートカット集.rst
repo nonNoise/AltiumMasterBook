@@ -1,8 +1,8 @@
 ================================================================================
-Altium ショートカット集
+Altium ショートカット集　
 ================================================================================
 
-元サイト；https://www.altium.com/jp/documentation/altium-designer/altium-designer-shortcut-keys?version=19.0
+元サイト：https://www.altium.com/jp/documentation/altium-designer/altium-designer-shortcut-keys?version=19.0
 
 
 一般的なAltium環境のショートカット
